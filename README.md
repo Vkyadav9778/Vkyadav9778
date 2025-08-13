@@ -10,7 +10,7 @@
 - 🎯 Currently learning **Data Science & Machine Learning**
 - 📊 Passionate about solving real-world problems using data
 - 💻 Skilled in **Python**, **NumPy**, **Pandas**, **Matplotlib/Seaborn**, **scikit-learn**
-- 🌱 Learning **TensorFlow** for Deep Learning projects and fastAPI
+- 🌱 Learning **TensorFlow** for Deep Learning projects and Flask
 - 🏆 Goal: Become a professional **Data Scientist & ML Engineer**
 
 ---
